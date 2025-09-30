@@ -82,7 +82,9 @@ This repository serves as the practical companion to the certificate — showing
 🎯 Why This Repo?
 
 ✔️ To demonstrate real coding practice beyond just holding a certificate
+
 ✔️ To document my learning journey step by step
+
 ✔️ To share resources with others starting out with Python
 
 ✨ This repo is part of my continuous learning journey in programming.
