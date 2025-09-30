@@ -41,6 +41,7 @@ I recreated the examples, solved exercises, and added my own practice code.
 
 Here’s a sample run of the Number Guessing Game (from project.py):
 
+```bash
 Welcome to the Number Guessing Game!
 Guess a number between 1 and 100: 45
 Too high! Try again.
@@ -48,7 +49,7 @@ Guess a number between 1 and 100: 23
 Too low! Try again.
 Guess a number between 1 and 100: 30
 🎉 Correct! You guessed the number in 3 tries.
-
+```
 
 ## 🛠 How to Use
 
